@@ -1,0 +1,20 @@
+{
+  "name": "pratica_integradora-designpattern-mvc",
+  "version": "1.0.0",
+  "description": "- Módulo 5: Express | Padrões MVC [ao vivo]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xJoninha/pratica_integradora-designPattern-MVC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xJoninha/pratica_integradora-designPattern-MVC/issues"
+  },
+  "homepage": "https://github.com/xJoninha/pratica_integradora-designPattern-MVC#readme"
+}
